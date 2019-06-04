@@ -2,7 +2,7 @@
 .DS_Store
 .thumbs.db
 node_modules
-/dist
+/dist/spa
 /src-cordova/node_modules
 /src-cordova/platforms
 /src-cordova/plugins
@@ -18,3 +18,12 @@ yarn-error.log*
 *.ntvs*
 *.njsproj
 *.sln
+
+# Python
+/venv
+__pycache__/
+
+*.py[cod]
+*~
+
+
